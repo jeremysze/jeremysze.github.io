@@ -1,8 +1,8 @@
 # main links links
 main:
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Thesis Documentation"
+    url: https://jeremysze.github.io/LPIS/
     
   - title: "CV"
     url: /cv/
