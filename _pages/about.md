@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "This is my personal documentations page"
+title: "Jeremy J. Sze"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This will be populated as I progress.
+The Thesis documentation and CV are up!
 
 ======
 
