@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will be populated as I progress.
+This will be populated as I progress.
 
 ======
 
