@@ -2,7 +2,7 @@
 main:
     
   - title: "Thesis Documentation"
-    url: https://jeremysze.github.io/LPIS/
+    url: "https://jeremysze.github.io/LPIS/"
     
   - title: "CV"
     url: /cv/
