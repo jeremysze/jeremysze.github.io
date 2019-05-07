@@ -67,8 +67,3 @@ Publications
 * Chisolm-Straker, M., Sze, J., Einbond, J., White, J. and Stoklosa, H. (2019) “Screening for human trafficking among homeless young adults.” Children and Youth Services Review. Volume 98, March 2019, pp 72-79
 * Chisolm-Straker, M., Sze, J., Einbond, J., White, J. and Stoklosa, H. (2018) “A supportive adult may be the difference in homeless youth not being trafficked.” Children and Youth Services Review. Volume 91, August 2018, pp 115-120
 * Hwang et al. (2018) “Geriatric Emergency Department Innovations: Transitional Care Nurses and Hospital Use.” Journal of the American Geriatrics Society. Volume 66, Issue 3, March 2018, pp. 459-466
-
-  #<ul>{% for post in site.publications %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
- 
