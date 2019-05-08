@@ -4,6 +4,9 @@ main:
   - title: "Thesis Documentation"
     url: "https://jeremysze.github.io/LPIS/"
     
+  - title: "Stata 101"
+    url: "https://stata101.readthedocs.io/en/latest/"
+    
   - title: "CV"
     url: /cv/
     
