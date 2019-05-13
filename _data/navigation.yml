@@ -10,8 +10,9 @@ main:
   - title: "CV"
     url: /cv/
     
-
-
+  - title: "Presentation"
+    url: "https://jeremysze.github.io/LPIS/SzeJ_slidedeck.slides.html#/"
+ 
 
   #- title: "Publications"
   #  url: /publications/
