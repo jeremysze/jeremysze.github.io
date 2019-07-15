@@ -16,8 +16,10 @@ Education
 
 Work experience
 ======
+* NYU Langone
+  * July 2019 - Present: Data Analyst
 * Icahn School of Medicine at Mount Sinai
-  * January 2016 – Present: Data Analyst	
+  * January 2016 – July 2019: Data Analyst	
     * Organize and standardize multiple administrative datasets from different hospital systems using Stata
     * Employ propensity score matching and entropy balancing techniques to create balance between groups
     * Perform Medicare cost analysis to identify savings from GEDI-WISE program interventions
