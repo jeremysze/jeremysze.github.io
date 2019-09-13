@@ -12,11 +12,10 @@ main:
     
   - title: "Slide Deck"
     url: "https://jeremysze.github.io/LPIS/SzeJ_slidedeck.slides.html#/"
- 
-
-  #- title: "Publications"
-  #  url: /publications/
-
+    
+  - title: "Publications"
+    url: "https://jeremysze.github.io/GIS_exploration/build/html/index.html"
+    
   #- title: "Talks"
   #  url: /talks/    
 
