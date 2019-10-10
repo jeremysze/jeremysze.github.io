@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-[<img src="../images/Tilescattermaps_animate.gif" width="60%">](https://jeremysze.github.io/LPIS/build/html/index.html)
+[<img src="../images/Tilescattermaps_animate.gif" width="90%">](https://jeremysze.github.io/LPIS/build/html/index.html)
