@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Data Driven Policy Evaluation, Baruch College, City University of New York, 2015
 * M.A. in Economics, Hunter College, City University of New York, 2019
+* B.S. in Data Driven Policy Evaluation, Baruch College, City University of New York, 2015
 
 Work experience
 ======
-* NYU Langone
+* New York University School of Medicine
   * July 2019 - Present: Data Analyst
+    * Develop algorithms in python to improve GIS analysis processes
 * Icahn School of Medicine at Mount Sinai
   * January 2016 – July 2019: Data Analyst	
-    * Organize and standardize multiple administrative datasets from different hospital systems using Stata
-    * Employ propensity score matching and entropy balancing techniques to create balance between groups
-    * Perform Medicare cost analysis to identify savings from GEDI-WISE program interventions
-    * Evaluate data from randomized controlled trial to identify impact on patient satisfaction and medical understanding
-    * Clean and analyze clinical data to test effectiveness of new Troponin tests
-    * Provide solutions to data validation issues that arise from data warehouse reports
+    * Organized and standardized multiple administrative datasets from different hospital systems using Stata
+    * Employed propensity score matching and entropy balancing techniques to create balance between groups
+    * Performed Medicare cost analysis to identify savings from GEDI-WISE program interventions
+    * Evaluated data from randomized controlled trial to identify impact on patient satisfaction and medical understanding
+    * Cleaned and analyzed clinical data to test effectiveness of new Troponin tests
+    * Provided solutions to data validation issues that arise from data warehouse reports
   * June 2015 – January 2016: Consultant
     * Developed algorithms in Stata to clean and extract encrypted information from Medicare Research Identifiable Files
     * Matched Medicare beneficiaries and claims to actual hospital visits to calculate costs
@@ -52,6 +53,7 @@ Skills
 * Spatial
   * QGIS
   * Geopandas
+  * Networkx
 * Data Analysis Experience
   * Linear Regressions
   * Instrumental Variables
